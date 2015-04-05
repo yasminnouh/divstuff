@@ -1,0 +1,19 @@
+.main-quote {
+  font-size: 30px;
+  width: 700px;
+  margin: 0 auto;
+  line-height: 35px;
+  font-family: Helvetica;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.wholeQuote {
+  font-size: 30px;
+  width: 700px;
+  margin: 0 auto;
+  line-height: 35px;
+  font-family: Helvetica;
+  margin-bottom: 10px;
+  text-align: left;
+}
