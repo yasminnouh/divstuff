@@ -1,10 +1,9 @@
 .main-quote {
-font-family: Helvetica,Arial,sans-serif;
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 40px;
+  line-height: 46px;
   margin: 0;
-  color: #3f4245;
-  background-color: #fff;
+  letter-spacing: -1px;
+  color: #000;
 }
 
 .wholeQuote {
@@ -16,3 +15,10 @@ font-family: Helvetica,Arial,sans-serif;
   background-color: #fff;
 }
 
+.globalHeader {
+  position: relative;
+  padding-bottom: 4px;
+  background-color: #1e385a;
+  background-image: -webkit-radial-gradient(50% 100%,ellipse farthest-corner,#77a0b4 10%,#284e72 60%,#142141 90%);
+  background-image: radial-gradient(ellipse farthest-corner at 50% 100%,#77a0b4 10%,#284e72 60%,#142141 90%);
+}
