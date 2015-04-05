@@ -22,3 +22,11 @@
   background-image: -webkit-radial-gradient(50% 100%,ellipse farthest-corner,#77a0b4 10%,#284e72 60%,#142141 90%);
   background-image: radial-gradient(ellipse farthest-corner at 50% 100%,#77a0b4 10%,#284e72 60%,#142141 90%);
 }
+
+.header-row {
+  box-sizing: border-box;
+}
+
+.globalHeader .header-row {
+  padding: 20px 0;
+}
