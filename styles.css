@@ -1,4 +1,4 @@
-.main-quote {
+.mainQuote {
   font-size: 40px;
   line-height: 46px;
   margin: 0;
@@ -13,6 +13,7 @@
   margin: 0;
   color: #3f4245;
   background-color: #fff;
+    padding: 0 20px;
 }
 
 .globalHeader {
