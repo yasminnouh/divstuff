@@ -1,19 +1,18 @@
 .main-quote {
-  font-size: 30px;
-  width: 700px;
-  margin: 0 auto;
-  line-height: 35px;
-  font-family: Helvetica;
-  margin-bottom: 10px;
-  text-align: left;
+font-family: Helvetica,Arial,sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 0;
+  color: #3f4245;
+  background-color: #fff;
 }
 
 .wholeQuote {
-  font-size: 30px;
-  width: 700px;
-  margin: 0 auto;
-  line-height: 35px;
-  font-family: Helvetica;
-  margin-bottom: 10px;
-  text-align: left;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 0;
+  color: #3f4245;
+  background-color: #fff;
 }
+
